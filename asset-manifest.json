@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/Havasneeze/ReactPort2.git/static/css/main.56c1f89d.chunk.css",
-    "main.js": "/Havasneeze/ReactPort2.git/static/js/main.411864f1.chunk.js",
-    "main.js.map": "/Havasneeze/ReactPort2.git/static/js/main.411864f1.chunk.js.map",
-    "runtime-main.js": "/Havasneeze/ReactPort2.git/static/js/runtime-main.36d0452f.js",
-    "runtime-main.js.map": "/Havasneeze/ReactPort2.git/static/js/runtime-main.36d0452f.js.map",
-    "static/js/2.1039a2ab.chunk.js": "/Havasneeze/ReactPort2.git/static/js/2.1039a2ab.chunk.js",
-    "static/js/2.1039a2ab.chunk.js.map": "/Havasneeze/ReactPort2.git/static/js/2.1039a2ab.chunk.js.map",
-    "static/js/3.6b5c1fa7.chunk.js": "/Havasneeze/ReactPort2.git/static/js/3.6b5c1fa7.chunk.js",
-    "static/js/3.6b5c1fa7.chunk.js.map": "/Havasneeze/ReactPort2.git/static/js/3.6b5c1fa7.chunk.js.map",
-    "index.html": "/Havasneeze/ReactPort2.git/index.html",
-    "static/css/main.56c1f89d.chunk.css.map": "/Havasneeze/ReactPort2.git/static/css/main.56c1f89d.chunk.css.map",
-    "static/js/2.1039a2ab.chunk.js.LICENSE.txt": "/Havasneeze/ReactPort2.git/static/js/2.1039a2ab.chunk.js.LICENSE.txt",
-    "static/media/emoji1.600d9e15.png": "/Havasneeze/ReactPort2.git/static/media/emoji1.600d9e15.png",
-    "static/media/App.css": "/Havasneeze/ReactPort2.git/static/media/hero3.026b6637.jpg"
+    "main.css": "/havasneeze/ReactPort2.git/static/css/main.fcd220ef.chunk.css",
+    "main.js": "/havasneeze/ReactPort2.git/static/js/main.411864f1.chunk.js",
+    "main.js.map": "/havasneeze/ReactPort2.git/static/js/main.411864f1.chunk.js.map",
+    "runtime-main.js": "/havasneeze/ReactPort2.git/static/js/runtime-main.4930f688.js",
+    "runtime-main.js.map": "/havasneeze/ReactPort2.git/static/js/runtime-main.4930f688.js.map",
+    "static/js/2.1039a2ab.chunk.js": "/havasneeze/ReactPort2.git/static/js/2.1039a2ab.chunk.js",
+    "static/js/2.1039a2ab.chunk.js.map": "/havasneeze/ReactPort2.git/static/js/2.1039a2ab.chunk.js.map",
+    "static/js/3.6b5c1fa7.chunk.js": "/havasneeze/ReactPort2.git/static/js/3.6b5c1fa7.chunk.js",
+    "static/js/3.6b5c1fa7.chunk.js.map": "/havasneeze/ReactPort2.git/static/js/3.6b5c1fa7.chunk.js.map",
+    "index.html": "/havasneeze/ReactPort2.git/index.html",
+    "static/css/main.fcd220ef.chunk.css.map": "/havasneeze/ReactPort2.git/static/css/main.fcd220ef.chunk.css.map",
+    "static/js/2.1039a2ab.chunk.js.LICENSE.txt": "/havasneeze/ReactPort2.git/static/js/2.1039a2ab.chunk.js.LICENSE.txt",
+    "static/media/emoji1.600d9e15.png": "/havasneeze/ReactPort2.git/static/media/emoji1.600d9e15.png",
+    "static/media/App.css": "/havasneeze/ReactPort2.git/static/media/hero3.026b6637.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.36d0452f.js",
+    "static/js/runtime-main.4930f688.js",
     "static/js/2.1039a2ab.chunk.js",
-    "static/css/main.56c1f89d.chunk.css",
+    "static/css/main.fcd220ef.chunk.css",
     "static/js/main.411864f1.chunk.js"
   ]
 }
