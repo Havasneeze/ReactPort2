@@ -2,7 +2,7 @@ import React from 'react';
 import { makeStyles } from '@material-ui/core/styles';
 import { Typography, Box } from '@material-ui/core';
 import Navbar from './Navbar';
-import { PlayCircleFilledWhite } from '@material-ui/icons';
+// import { PlayCircleFilledWhite } from '@material-ui/icons';
 
 const useStyles = makeStyles({
     mainContainer: {
@@ -32,7 +32,7 @@ const Resume = () => {
 
                 </Box>
             </Box>
-        /* </React.Fragment> 
+         </React.Fragment> 
         
 
     );
