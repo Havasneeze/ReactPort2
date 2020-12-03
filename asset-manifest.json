@@ -1,24 +1,24 @@
 {
   "files": {
     "main.css": "/havasneeze/ReactPort2.git/static/css/main.fcd220ef.chunk.css",
-    "main.js": "/havasneeze/ReactPort2.git/static/js/main.411864f1.chunk.js",
-    "main.js.map": "/havasneeze/ReactPort2.git/static/js/main.411864f1.chunk.js.map",
+    "main.js": "/havasneeze/ReactPort2.git/static/js/main.a2ce7a15.chunk.js",
+    "main.js.map": "/havasneeze/ReactPort2.git/static/js/main.a2ce7a15.chunk.js.map",
     "runtime-main.js": "/havasneeze/ReactPort2.git/static/js/runtime-main.4930f688.js",
     "runtime-main.js.map": "/havasneeze/ReactPort2.git/static/js/runtime-main.4930f688.js.map",
-    "static/js/2.1039a2ab.chunk.js": "/havasneeze/ReactPort2.git/static/js/2.1039a2ab.chunk.js",
-    "static/js/2.1039a2ab.chunk.js.map": "/havasneeze/ReactPort2.git/static/js/2.1039a2ab.chunk.js.map",
+    "static/js/2.6abdc98f.chunk.js": "/havasneeze/ReactPort2.git/static/js/2.6abdc98f.chunk.js",
+    "static/js/2.6abdc98f.chunk.js.map": "/havasneeze/ReactPort2.git/static/js/2.6abdc98f.chunk.js.map",
     "static/js/3.6b5c1fa7.chunk.js": "/havasneeze/ReactPort2.git/static/js/3.6b5c1fa7.chunk.js",
     "static/js/3.6b5c1fa7.chunk.js.map": "/havasneeze/ReactPort2.git/static/js/3.6b5c1fa7.chunk.js.map",
     "index.html": "/havasneeze/ReactPort2.git/index.html",
     "static/css/main.fcd220ef.chunk.css.map": "/havasneeze/ReactPort2.git/static/css/main.fcd220ef.chunk.css.map",
-    "static/js/2.1039a2ab.chunk.js.LICENSE.txt": "/havasneeze/ReactPort2.git/static/js/2.1039a2ab.chunk.js.LICENSE.txt",
+    "static/js/2.6abdc98f.chunk.js.LICENSE.txt": "/havasneeze/ReactPort2.git/static/js/2.6abdc98f.chunk.js.LICENSE.txt",
     "static/media/emoji1.600d9e15.png": "/havasneeze/ReactPort2.git/static/media/emoji1.600d9e15.png",
     "static/media/App.css": "/havasneeze/ReactPort2.git/static/media/hero3.026b6637.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.4930f688.js",
-    "static/js/2.1039a2ab.chunk.js",
+    "static/js/2.6abdc98f.chunk.js",
     "static/css/main.fcd220ef.chunk.css",
-    "static/js/main.411864f1.chunk.js"
+    "static/js/main.a2ce7a15.chunk.js"
   ]
 }
