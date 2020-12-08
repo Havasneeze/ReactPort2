@@ -26,7 +26,10 @@ const useStyles = makeStyles({
     },
     cardContainer: {
         maxWidth: 345,
+<<<<<<< HEAD
         margin: '3rem',
+=======
+>>>>>>> c56925497a7acc81366ac5033e80b33f7fdd737f
         margin: '2rem auto'
     }
 

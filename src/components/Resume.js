@@ -2,9 +2,13 @@ import React from 'react';
 import { makeStyles } from '@material-ui/core/styles';
 import { Typography, Box } from '@material-ui/core';
 import Navbar from './Navbar';
+<<<<<<< HEAD
 import PDFViewer from './PDFViewer/PDFViewer';
 import PDFJSBackend from '../backends/pdfjs';
 import { PlayCircleFilledWhite } from '@material-ui/icons';
+=======
+// import { PlayCircleFilledWhite } from '@material-ui/icons';
+>>>>>>> c56925497a7acc81366ac5033e80b33f7fdd737f
 
 const useStyles = makeStyles({
     mainContainer: {
@@ -37,10 +41,14 @@ const Resume = () => {
 
                 </Box>
             </Box>
+<<<<<<< HEAD
             <PDFViewer 
                     backend={PDFJSBackend} 
                     src='/myPDF.pdf' />
         /* </React.Fragment> 
+=======
+         </React.Fragment> 
+>>>>>>> c56925497a7acc81366ac5033e80b33f7fdd737f
         
 
     );
