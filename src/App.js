@@ -6,6 +6,7 @@ import Home from './components/';
 import Resume from './components/Resume';
 import Portfolio from "./components/Portfolio";
 import Contact from "./components/Contact";
+import PDFViewer from './components/PDFViewer/PDFViewer';
 
 
 
